@@ -25,7 +25,7 @@ public class Anagram {
 		if(Arrays.equals(c1, c2)) {
 			System.out.println("Srings are anagram");
 		}
-		
+		sc.close();
 		
 	}
 }
